@@ -11,11 +11,7 @@ int main()
    int z = y+x;
 
 
+printf("%d, %d, %d",x,y,z);
 
-    printf("Value of x = %d\n", x);
-
-    printf("Value of y = %d\n", y);
-
-    printf("Value of z = %d\n", z);
     return 0;
 }
